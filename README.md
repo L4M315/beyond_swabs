@@ -8,4 +8,5 @@ Deaths are harder to miss than infections. Can we use confirmed deaths to determ
 ### References
 - Full list: <a href="https://docs.google.com/document/d/16OSf1nbo-4-U9MysgSRBKBPdP1VvwE8xjwVBq0LVYZ0/edit?usp=sharing">Google Doc</a>
 
-### Poster
+### Poster (must request access)
+- <a href="https://drive.google.com/file/d/146-WjLFF532OaxkafcxJWBLqHRuQTxW6/view?usp=sharing">Google Drive</a>
